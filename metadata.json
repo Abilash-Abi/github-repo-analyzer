@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Repo Analyzer",
+  "description": "Analyzes a GitHub repository's commit history for a specific user and generates a summarized task list of their contributions using AI.",
+  "requestFramePermissions": []
+}
